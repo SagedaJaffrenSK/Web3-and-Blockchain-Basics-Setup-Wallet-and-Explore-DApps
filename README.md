@@ -1,7 +1,7 @@
 # Blockchain Testnet Task – Set 2
 
 ## 👤 Submitted by
-**Name:** Jaffren  
+**Name:** Sageda Jaffren Shaik  
 **Roll No:** 23A91A6152  
 **Course:** B.Tech – AIML (3-1)  
 **Institute:** Aditya University  
