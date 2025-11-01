@@ -24,7 +24,8 @@ This repository contains the blockchain task performed on the **Sepolia Testnet*
 - Wallet configuration  
 - Testnet setup  
 - DApp Connection
-- Transaction verification via Etherscan  
+- Transaction verification via Etherscan
+- Completed transaction
 
 ---
 
